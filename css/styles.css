@@ -1,0 +1,15 @@
+body {
+	/*background-color: pink;*/
+}
+
+#who {
+	min-height: 450px;
+	background-image: url('../images/img9.jpg');
+	background-size: cover;
+	background-position: fill;
+	margin-top: 20px;
+}
+
+.showcase {
+	min-height: 450px;
+}
